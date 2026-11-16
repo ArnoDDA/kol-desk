@@ -1,0 +1,17 @@
+data/
+**/data/
+__pycache__/
+*.py[cod]
+*.sqlite*
+*.db
+*.db-*
+*.log
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+.DS_Store
+*.zip
+*.pem
+*.key
